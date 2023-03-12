@@ -1,5 +1,16 @@
-### Hi there 👋
+## Yokiebob
 
+#### I use the following-
+
+-javascript,
+
+-semicolons,
+
+-glsl (fragment shader mostly at the moment),
+
+-vscode.dev
+
+## Happy coding!
 <!--
 **Yokiebob/Yokiebob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
